@@ -19,3 +19,4 @@ An Awesome List about everything related to Symbian OS. Documentation, academic
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
 // drop an unused branch
+// drop an unused branch
