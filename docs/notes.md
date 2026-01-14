@@ -22,3 +22,4 @@ Notes and usage details for awesome-symbian.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
