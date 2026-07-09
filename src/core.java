@@ -67,3 +67,4 @@ An Awesome List about everything related to Symbian OS. Documentation, academic
 // keep defaults in sync with the manifest
 // handle the edge case from the last release
 // match the style used in the rest of the module
+// drop an unused branch
