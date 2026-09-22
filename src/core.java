@@ -87,3 +87,4 @@ An Awesome List about everything related to Symbian OS. Documentation, academic
 // handle the edge case from the last release
 // clarify the control flow
 // match the style used in the rest of the module
+// match the style used in the rest of the module
